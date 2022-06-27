@@ -6,7 +6,7 @@ This example is based on 750-9301 (Compact Controller 100) with firmware 21, and
 If the controller network card is not DHCP (default), this must be set to have an online connection to internet.
 
 ## Download Grafana
-Latest version of Grafana is found on homepage [here.js.](https://grafana.com/grafana/download?pg=get&plcmt=selfmanaged-box1-cta1&platform=arm) <br/>
+Latest version of Grafana is found on homepage [here.](https://grafana.com/grafana/download?pg=get&plcmt=selfmanaged-box1-cta1&platform=arm) <br/>
 In this example we use Grafana v8.5.2.
 
 Log in as root and make/select a folder:

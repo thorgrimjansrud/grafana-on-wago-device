@@ -46,7 +46,7 @@ grafana-server -v
 ```
 Quick and dirty start:
 ```
-cd /home/codesys_root/grafana/grafana-8.5.2/bin
+cd /home/grafana/grafana-8.5.2/bin
 grafana-server start
 ```
 

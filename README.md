@@ -15,7 +15,7 @@ cd /home
 mkdir grafana
 cd grafana
 ```
-Get the Grafana tarball:
+Get the Grafana tarball: 
 ```
 wget https://dl.grafana.com/enterprise/release/grafana-enterprise-8.5.2.linux-armv7.tar.gz
 ```

@@ -20,9 +20,9 @@ Get the Grafana tarball:
 wget https://dl.grafana.com/enterprise/release/grafana-enterprise-8.5.2.linux-armv7.tar.gz
 ```
 
-## Unpack and install Node.js
+## Unpack and install Grafana
 
-Unpack Grafana in /home/grafana directory:
+Unpack Grafana in e.g. /home/grafana directory:
 ```
 tar -xvf grafana-enterprise-8.5.2.linux-armv7.tar.gz
 ```

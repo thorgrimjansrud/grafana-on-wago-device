@@ -19,6 +19,7 @@ Get the Grafana tarball:
 ```
 wget https://dl.grafana.com/enterprise/release/grafana-enterprise-8.5.2.linux-armv7.tar.gz
 ```
+> WGET Bug in PFC8xxx FW21 "connection reset by per" (pending) <br/>
 
 ## Unpack and install Grafana
 
